@@ -1,0 +1,7 @@
+{
+  "name": "trust-span-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "sh ./setup.sh"
+  }
+}
